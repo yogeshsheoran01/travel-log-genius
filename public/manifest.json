@@ -1,0 +1,16 @@
+{
+  "name": "Travel Log Genius",
+  "short_name": "TravelLog",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "description": "A mobile-friendly app for capturing trip data for transportation planning.",
+  "icons": [
+    {
+      "src": "public/favicon.ico",
+      "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+      "type": "image/x-icon"
+    }
+  ]
+}
